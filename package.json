@@ -1,0 +1,17 @@
+{
+  "name": "physics-notes-ai",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "1.2.1",
+    "bcryptjs": "3.0.3",
+    "jose": "6.2.18",
+    "next": "15.5.29",
+    "react": "19.1.10",
+    "react-dom": "19.1.10"
+  }
+}
